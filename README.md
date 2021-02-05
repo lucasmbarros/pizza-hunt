@@ -17,7 +17,7 @@ A live application where users can discuss about their favorite pizza toppings.
 
 Install Node.js
 
-    npm install inquirer mysql2 console.table dotenv
+    pending
 
 ## Usage
 
